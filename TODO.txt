@@ -1,0 +1,11 @@
+Build app in Django
+
+1. todos
+    basic todo app
+2. habits
+    cyclical todos, every n days a m time mark as undone
+    involves data collecting
+3. goals
+    complex organizing for habits and todos
+    candy land progression
+    skill trees
